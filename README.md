@@ -8,4 +8,3 @@ Through this project, I learnt the importance of feature engineering for a predi
 link : https://datahack.analyticsvidhya.com/contest/black-friday/
 -This project was first done using Microsoft Azure Machine Learning Studio and then Python was used. The result were then compared.
 
-Top 2% in the kaggle black friday competition leaderboard.
